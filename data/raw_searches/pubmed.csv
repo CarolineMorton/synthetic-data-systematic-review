@@ -1,0 +1,493 @@
+Title,First Author,Journal,Publication Year,DOI
+Harmonizing Clinical Sequencing and Interpretation for the eMERGE III Network,eMERGE Consortium. Electronic address: agibbs@bcm.edu,Am J Hum Genet,2019,10.1016/j.ajhg.2019.07.018
+Bias correction for inverse variance weighting Mendelian randomization,Mounier N,Genet Epidemiol,2023,10.1002/gepi.22522
+H3Africa: current perspectives,Mulder N,Pharmgenomics Pers Med,2018,10.2147/PGPM.S141546
+Generative Adversarial Networks in Cardiology,Skandarani Y,Can J Cardiol,2022,10.1016/j.cjca.2021.11.003
+Synthetic Data Generation by Artificial Intelligence to Accelerate Research and Precision Medicine in Hematology,D'Amico S,JCO Clin Cancer Inform,2023,10.1200/CCI.23.00021
+Status of Synthetic Data Generation for Structured Health Data,El Emam K,JCO Clin Cancer Inform,2023,10.1200/CCI.23.00071
+"Synthetic Tabular Data Evaluation in the Health Domain Covering Resemblance, Utility, and Privacy Dimensions",Hernadez M,Methods Inf Med,2023,10.1055/s-0042-1760247
+Domain Knowledge-Driven Generation of Synthetic Healthcare Data,Hashemi AS,Stud Health Technol Inform,2023,10.3233/SHTI230136
+Membership inference attacks against synthetic health data,Zhang Z,J Biomed Inform,2022,10.1016/j.jbi.2021.103977
+Key Contributions in Clinical Research Informatics,Daniel C,Yearb Med Inform,2021,10.1055/s-0041-1726514
+Generation and evaluation of synthetic patient data,Goncalves A,BMC Med Res Methodol,2020,10.1186/s12874-020-00977-1
+"Data Provenance in Healthcare: Approaches, Challenges, and Future Directions",Ahmed M,Sensors (Basel),2023,10.3390/s23146495
+A Framework for Evaluating Synthetic Electronic Health Records,Budu E,Stud Health Technol Inform,2023,10.3233/SHTI230149
+Dataset Comparison Tool: Utility and Privacy,Coutinho-Almeida J,Stud Health Technol Inform,2022,10.3233/SHTI220389
+An overview of synthetic administrative data for research,Kokosi T,Int J Popul Data Sci,2022,10.23889/ijpds.v7i1.1727
+Deep generative models in DataSHIELD,Lenz S,BMC Med Res Methodol,2021,10.1186/s12874-021-01237-6
+Health Synthetic Data to Enable Health Learning System and Innovation: A Scoping Review,Tsao SF,Stud Health Technol Inform,2023,10.3233/SHTI230063
+Genomic health data generation in the UK: a 360 view,Ormondroyd E,Eur J Hum Genet,2022,10.1038/s41431-021-00976-w
+Multi-omics data integration methods and their applications in psychiatric disorders,Sathyanarayanan A,Eur Neuropsychopharmacol,2023,10.1016/j.euroneuro.2023.01.001
+Contribution of Synthetic Data Generation towards an Improved Patient Stratification in Palliative Care,Hahn W,J Pers Med,2022,10.3390/jpm12081278
+Utility Metrics for Evaluating Synthetic Health Data Generation Methods: Validation Study,El Emam K,JMIR Med Inform,2022,10.2196/35734
+Breast cancer screening and overdiagnosis,Bulliard JL,Int J Cancer,2021,10.1002/ijc.33602
+Generation and Evaluation of Synthetic Data in a University Hospital Setting,Kaabachi B,Stud Health Technol Inform,2022,10.3233/SHTI220420
+Synthetic electronic health records generated with variational graph autoencoders,Nikolentzos G,NPJ Digit Med,2023,10.1038/s41746-023-00822-x
+Generating synthetic mixed discrete-continuous health records with mixed sum-product networks,Kroes SKS,J Am Med Inform Assoc,2022,10.1093/jamia/ocac184
+clusterBMA: Bayesian model averaging for clustering,Forbes O,PLoS One,2023,10.1371/journal.pone.0288000
+Generative adversarial networks and synthetic patient data: current challenges and future perspectives,Arora A,Future Healthc J,2022,10.7861/fhj.2022-0013
+Big science and big data in nephrology,Saez-Rodriguez J,Kidney Int,2019,10.1016/j.kint.2018.11.048
+A method for generating synthetic longitudinal health data,Mosquera L,BMC Med Res Methodol,2023,10.1186/s12874-023-01869-w
+Electronic Patient-Generated Health Data to Facilitate Disease Prevention and Health Promotion: Scoping Review,Nittas V,J Med Internet Res,2019,10.2196/13320
+PEPS: Polygenic Epistatic Phenotype Simulation,Reguant R,Stud Health Technol Inform,2024,10.3233/SHTI231077
+Unlocking data: Where is the key?,C Sánchez M,Bioethics,2019,10.1111/bioe.12565
+EHR-Safe: generating high-fidelity and privacy-preserving synthetic electronic health records,Yoon J,NPJ Digit Med,2023,10.1038/s41746-023-00888-7
+Synthetic data as an enabler for machine learning applications in medicine,Rajotte JF,iScience,2022,10.1016/j.isci.2022.105331
+A Multifaceted benchmarking of synthetic electronic health record generation models,Yan C,Nat Commun,2022,10.1038/s41467-022-35295-1
+Addressing healthcare disparities and managed care considerations with continuous glucose monitoring,McAdam-Marx C,Am J Manag Care,2022,10.37765/ajmc.2022.89215
+Consent Management System on Patient-Generated Health Data,Randine P,Stud Health Technol Inform,2024,10.3233/SHTI230956
+A Case for Synthetic Data in Regulatory Decision-Making in Europe,Alloza C,Clin Pharmacol Ther,2023,10.1002/cpt.3001
+Synthesizing Electronic Health Records for Predictive Models in Low-Middle-Income Countries (LMICs),Ghosheh GO,Biomedicines,2023,10.3390/biomedicines11061749
+Generation of realistic synthetic data using Multimodal Neural Ordinary Differential Equations,Wendland P,NPJ Digit Med,2022,10.1038/s41746-022-00666-x
+Inferring actual treatment pathways from patient records,Wilkins-Caruana A,J Biomed Inform,2023,10.1016/j.jbi.2023.104554
+Synthetic data & the future of Women's Health: A synergistic relationship,Delanerolle G,Int J Med Inform,2023,10.1016/j.ijmedinf.2023.105238
+"Patient-centric synthetic data generation, no reason to risk re-identification in biomedical data analysis",Guillaudeux M,NPJ Digit Med,2023,10.1038/s41746-023-00771-5
+Health data hubs: an analysis of existing data governance features for research,Alvarez-Romero C,Health Res Policy Syst,2023,10.1186/s12961-023-01026-1
+Synthetic Patient Data Generation and Evaluation in Disease Prediction Using Small and Imbalanced Datasets,Rodriguez-Almeida AJ,IEEE J Biomed Health Inform,2023,10.1109/JBHI.2022.3196697
+Generating synthetic data from administrative health records for drug safety and effectiveness studies,Ayilara OF,Int J Popul Data Sci,2023,10.23889/ijpds.v8i1.2176
+Leveraging Artificial Intelligence and Synthetic Data Derivatives for Spine Surgery Research,Greenberg JK,Global Spine J,2023,10.1177/21925682221085535
+Generating synthetic mixed-type longitudinal electronic health records for artificial intelligent applications,Li J,NPJ Digit Med,2023,10.1038/s41746-023-00834-7
+Validating a membership disclosure metric for synthetic health data,El Emam K,JAMIA Open,2022,10.1093/jamiaopen/ooac083
+Axes of a revolution: challenges and promises of big data in healthcare,Shilo S,Nat Med,2020,10.1038/s41591-019-0727-5
+Fully synthetic neuroimaging data for replication and exploration,Vaden KI Jr,Neuroimage,2020,10.1016/j.neuroimage.2020.117284
+A synthetic dataset of liver disorder patients,Nicora G,Data Brief,2023,10.1016/j.dib.2023.108921
+Characterizing multi-omic data in systems biology,Mason CE,Adv Exp Med Biol,2014,10.1007/978-1-4614-8778-4_2
+Application of Bayesian networks to generate synthetic health data,Kaur D,J Am Med Inform Assoc,2021,10.1093/jamia/ocaa303
+Big Data Privacy in Biomedical Research,Wang S,IEEE Trans Big Data,2020,10.1109/TBDATA.2016.2608848
+SynSys: A Synthetic Data Generation System for Healthcare Applications,Dahmen J,Sensors (Basel),2019,10.3390/s19051181
+"In simulated data and health records, latent class analysis was the optimum multimorbidity clustering algorithm",Nichols L,J Clin Epidemiol,2022,10.1016/j.jclinepi.2022.10.011
+Privacy preserving interactive record linkage (PPIRL),Kum HC,J Am Med Inform Assoc,2014,10.1136/amiajnl-2013-002165
+Designing and testing a blockchain application for patient identity management in healthcare,Khurshid A,JAMIA Open,2021,10.1093/jamiaopen/ooaa073
+Generating high-fidelity synthetic patient data for assessing machine learning healthcare software,Tucker A,NPJ Digit Med,2020,10.1038/s41746-020-00353-9
+Federated learning for generating synthetic data: a scoping review,Little C,Int J Popul Data Sci,2023,10.23889/ijpds.v8i1.2158
+Overcoming barriers to data sharing with medical image generation: a comprehensive evaluation,DuMont Schütte A,NPJ Digit Med,2021,10.1038/s41746-021-00507-3
+Estimating Uncertainty Intervals from Collaborating Networks,Zhou T,J Mach Learn Res,2021,
+Generating synthetic personal health data using conditional generative adversarial networks combining with differential privacy,Sun C,J Biomed Inform,2023,10.1016/j.jbi.2023.104404
+Labeling Self-Tracked Menstrual Health Records With Hidden Semi-Markov Models,Symul L,IEEE J Biomed Health Inform,2022,10.1109/JBHI.2021.3110716
+A synthetic data generation system for myalgic encephalomyelitis/chronic fatigue syndrome questionnaires,Lacasa M,Sci Rep,2023,10.1038/s41598-023-40364-6
+Clinicians' Perspectives in Using Patient-Generated Health Data to Improve Ischemic Heart Disease Management,Alaboud K,AMIA Jt Summits Transl Sci Proc,2022,
+Data Quality Assessment for Observational Medical Outcomes Partnership Common Data Model of Multi-Center,Oh SW,Stud Health Technol Inform,2023,10.3233/SHTI230127
+Generating high-fidelity privacy-conscious synthetic patient data for causal effect estimation with multiple treatments,Shi J,Front Artif Intell,2022,10.3389/frai.2022.918813
+A Learned Reconstruction Network for SPECT Imaging,Shao W,IEEE Trans Radiat Plasma Med Sci,2021,10.1109/trpms.2020.2994041
+Characterization of Synthetic Health Data Using Rule-Based Artificial Intelligence Models,Lenatti M,IEEE J Biomed Health Inform,2023,10.1109/JBHI.2023.3236722
+[Re-identification potential of structured health data],Drechsler J,Bundesgesundheitsblatt Gesundheitsforschung Gesundheitsschutz,2024,10.1007/s00103-023-03820-2
+Generating Enriched Synthetic German Hospital Claims Data - A Use Case Driven Approach,Helfer S,Stud Health Technol Inform,2021,10.3233/SHTI210051
+The Detection of Date Shifting in Real-World Data,Evans L,Appl Clin Inform,2023,10.1055/a-2130-2197
+Creating High-Quality Synthetic Health Data: Framework for Model Development and Validation,Karimian Sichani E,JMIR Form Res,2024,10.2196/53241
+Synthetic Health Data Can Augment Community Research Efforts to Better Inform the Public During Emerging Pandemics,Prasanna A,medRxiv,2023,10.1101/2023.12.11.23298687
+DataSifterText: Partially Synthetic Text Generation for Sensitive Clinical Notes,Zhou N,J Med Syst,2022,10.1007/s10916-022-01880-6
+Generation of synthetic EEG data for training algorithms supporting the diagnosis of major depressive disorder,Carrle FP,Front Neurosci,2023,10.3389/fnins.2023.1219133
+The Problem of Fairness in Synthetic Healthcare Data,Bhanot K,Entropy (Basel),2021,10.3390/e23091165
+State of the art in clinical decision support applications in pediatric perioperative medicine,Wang E,Curr Opin Anaesthesiol,2020,10.1097/ACO.0000000000000850
+The effect of missing levels of nesting in multilevel analysis,Park S,Genomics Inform,2022,10.5808/gi.22052
+[Healthcare networks for people with rare diseases: integrating data and expertise],Graessner H,Bundesgesundheitsblatt Gesundheitsforschung Gesundheitsschutz,2022,10.1007/s00103-022-03592-1
+Synthea™ Novel coronavirus (COVID-19) model and synthetic data set,Walonoski J,Intell Based Med,2020,10.1016/j.ibmed.2020.100007
+A public health nursing informatics data-and-practice quality project,Monsen KA,Comput Inform Nurs,2006,10.1097/00024665-200605000-00012
+COMMUTE: Communication-efficient transfer learning for multi-site risk prediction,Gu T,J Biomed Inform,2023,10.1016/j.jbi.2022.104243
+Data Management for Health Data Reuse: Proposal of a Standard Workflow and a R Tutorial with Jupyter Notebook,Lamer A,Stud Health Technol Inform,2022,10.3233/SHTI220912
+Internet use and health: Connecting secondary data through spatial microsimulation,Deetjen U,Digit Health,2016,10.1177/2055207616666588
+A comparison study on creating simulated patient data for individuals suffering from chronic coronary disorders,Koloi A,Annu Int Conf IEEE Eng Med Biol Soc,2023,10.1109/EMBC40787.2023.10340194
+A comparison of synthetic data generation and federated analysis for enabling international evaluations of cardiovascular health,Azizi Z,Sci Rep,2023,10.1038/s41598-023-38457-3
+A Review of Recent Advances in Translational Bioinformatics: Bridges from Biology to Medicine,Vamathevan J,Yearb Med Inform,2017,10.15265/IY-2017-017
+What is infodemiology? An overview and its role in public health,Klimiuk KB,Przegl Epidemiol,2024,10.32394/pe/188119
+Detecting anomalous sequences in electronic health records using higher-order tensor networks,Niu H,J Biomed Inform,2022,10.1016/j.jbi.2022.104219
+Increasing African genomic data generation and sharing to resolve rare and undiagnosed diseases in Africa: a call-to-action by the H3Africa rare diseases working group,Lumaka A,Orphanet J Rare Dis,2022,10.1186/s13023-022-02391-w
+NextGen Public Health Surveillance and the Internet of Things (IoT),Sahu KS,Front Public Health,2021,10.3389/fpubh.2021.756675
+Generating Synthetic Electronic Health Record Data Using Generative Adversarial Networks: Tutorial,Yan C,JMIR AI,2024,10.2196/52615
+Artificial Intelligence-Based Framework for Analyzing Health Care Staff Security Practice: Mapping Review and Simulation Study,Yeng PK,JMIR Med Inform,2021,10.2196/19250
+Two Directions for Clinical Data Generation with Large Language Models: Data-to-Label and Label-to-Data,Li R,Proc Conf Empir Methods Nat Lang Process,2023,10.18653/v1/2023.findings-emnlp.474
+Synthetic microbleeds generation for classifier training without ground truth,Momeni S,Comput Methods Programs Biomed,2021,10.1016/j.cmpb.2021.106127
+Synthetic data in cancer and cerebrovascular disease research: A novel approach to big data,Lun R,PLoS One,2024,10.1371/journal.pone.0295921
+Big Data Solutions for Controversies in Breast Cancer Treatment,Cobb AN,Clin Breast Cancer,2021,10.1016/j.clbc.2020.08.003
+Direction of dependence analysis for pre-post assessments using non-Gaussian methods: a tutorial,Rosenström TH,Psychother Res,2023,10.1080/10503307.2023.2167526
+Pitfalls in Analyzing FHIR Data from Different University Hospitals,Löbe M,Stud Health Technol Inform,2023,10.3233/SHTI230706
+Large language models to identify social determinants of health in electronic health records,Guevara M,NPJ Digit Med,2024,10.1038/s41746-023-00970-0
+Identifying Obviously Artificial Medical Images Produced by a Generative Adversarial Network,O'Reilly JA,Annu Int Conf IEEE Eng Med Biol Soc,2022,10.1109/EMBC48229.2022.9871217
+Learning the progression patterns of treatments using a probabilistic generative model,Zaballa O,J Biomed Inform,2023,10.1016/j.jbi.2022.104271
+Personalized Recommendations for Physical Activity e-Coaching (OntoRecoModel): Ontological Modeling,Chatterjee A,JMIR Med Inform,2022,10.2196/33847
+Artificial intelligence: A rapid case for advancement in the personalization of Gynaecology/Obstetric and Mental Health care,Delanerolle G,Womens Health (Lond),2021,10.1177/17455065211018111
+Individual and contextual level enablers and barriers determining electronic community health information system implementation in northwest Ethiopia,Hailemariam T,BMC Health Serv Res,2023,10.1186/s12913-023-09629-8
+Electronic Health Records and Genomics: Perspectives from the Association for Molecular Pathology Electronic Health Record (EHR) Interoperability for Clinical Genomics Data Working Group,Carter AB,J Mol Diagn,2022,10.1016/j.jmoldx.2021.09.009
+Detection of overdose and underdose prescriptions-An unsupervised machine learning approach,Nagata K,PLoS One,2021,10.1371/journal.pone.0260315
+Quantifying Electronic Health Record Data: A Potential Risk for Cognitive Overload,Gal DB,Hosp Pediatr,2021,10.1542/hpeds.2020-002402
+De-identifying Spanish medical texts - named entity recognition applied to radiology reports,Pérez-Díez I,J Biomed Semantics,2021,10.1186/s13326-021-00236-2
+Simulating Study Data to Support Expected Value of Sample Information Calculations: A Tutorial,Heath A,Med Decis Making,2022,10.1177/0272989X211026292
+Clinical decision support for chemotherapy-induced neutropenia using a hybrid pharmacodynamic/machine learning model,Hughes JH,CPT Pharmacometrics Syst Pharmacol,2023,10.1002/psp4.13019
+Evaluating Identity Disclosure Risk in Fully Synthetic Health Data: Model Development and Validation,El Emam K,J Med Internet Res,2020,10.2196/23139
+"Pseudo-data generation for the extraction of Problems, Treatments and Tests",Smith J,AMIA Jt Summits Transl Sci Proc,2021,
+Identifying and handling data bias within primary healthcare data using synthetic data generators,Draghi B,Heliyon,2024,10.1016/j.heliyon.2024.e24164
+Linking Data for Mothers and Babies in De-Identified Electronic Health Data,Harron K,PLoS One,2016,10.1371/journal.pone.0164667
+Desiderata for a Synthetic Clinical Data Generator,Wiedekopf J,Stud Health Technol Inform,2021,10.3233/SHTI210122
+A novel method to create realistic synthetic medication data,Hodges R,JAMIA Open,2023,10.1093/jamiaopen/ooad052
+"Odisha tribal family health survey: methods, tools, and protocols for a comprehensive health assessment survey",Kshatri JS,Front Public Health,2023,10.3389/fpubh.2023.1157241
+Using an optimized generative model to infer the progression of complications in type 2 diabetes patients,Wang X,BMC Med Inform Decis Mak,2022,10.1186/s12911-022-01915-5
+Introduction to statistical simulations in health research,Boulesteix AL,BMJ Open,2020,10.1136/bmjopen-2020-039921
+ECG Synthesis via Diffusion-Based State Space Augmented Transformer,Zama MH,Sensors (Basel),2023,10.3390/s23198328
+"Health record hiccups-5,526 real-world time series with change points labelled by crowdsourced visual inspection",Quan TP,Gigascience,2022,10.1093/gigascience/giad060
+Imputation and missing indicators for handling missing data in the development and deployment of clinical prediction models: A simulation study,Sisk R,Stat Methods Med Res,2023,10.1177/09622802231165001
+Data Sharing in Biomedical Sciences: A Systematic Review of Incentives,Devriendt T,Biopreserv Biobank,2021,10.1089/bio.2020.0037
+Cardiac aging synthesis from cross-sectional data with conditional generative adversarial networks,Campello VM,Front Cardiovasc Med,2022,10.3389/fcvm.2022.983091
+CADUCEO: A Platform to Support Federated Healthcare Facilities through Artificial Intelligence,Menegatti D,Healthcare (Basel),2023,10.3390/healthcare11152199
+DataSifter II: Partially synthetic data sharing of sensitive information containing time-varying correlated observations,Zhou N,J Algorithm Comput Technol,2022,10.1177/17483026211065379
+Generating sequential electronic health records using dual adversarial autoencoder,Lee D,J Am Med Inform Assoc,2020,10.1093/jamia/ocaa119
+An evaluation of the replicability of analyses using synthetic health data,El Emam K,Sci Rep,2024,10.1038/s41598-024-57207-7
+Construction of Genealogical Knowledge Graphs From Obituaries: Multitask Neural Network Extraction System,He K,J Med Internet Res,2021,10.2196/25670
+Keeping synthetic patients on track: feedback mechanisms to mitigate performance drift in longitudinal health data simulation,Zhang Z,J Am Med Inform Assoc,2022,10.1093/jamia/ocac131
+Optimizing the synthesis of clinical trial data using sequential trees,Emam KE,J Am Med Inform Assoc,2021,10.1093/jamia/ocaa249
+Estimating lifetime medical costs from censored claims data,Hwang JS,Health Econ,2017,10.1002/hec.3512
+Privacy preserving Generative Adversarial Networks to model Electronic Health Records,Venugopal R,Neural Netw,2022,10.1016/j.neunet.2022.06.022
+From heterogeneous healthcare data to disease-specific biomarker networks: A hierarchical Bayesian network approach,Becker AK,PLoS Comput Biol,2021,10.1371/journal.pcbi.1008735
+Design and validation of a data simulation model for longitudinal healthcare data,Murray RE,AMIA Annu Symp Proc,2011,
+Reduction of SPECT acquisition time using deep learning: A phantom study,Pribanić I,Phys Med,2023,10.1016/j.ejmp.2023.102615
+SynTEG: a framework for temporal structured electronic health data simulation,Zhang Z,J Am Med Inform Assoc,2021,10.1093/jamia/ocaa262
+Patient asynchrony modelling during controlled mechanical ventilation therapy,Arunachalam GR,Comput Methods Programs Biomed,2020,10.1016/j.cmpb.2019.105103
+Synthesize Extremely High-dimensional Longitudinal Electronic Health Records via Hierarchical Autoregressive Language Model,Theodorou B,Res Sq,2023,10.21203/rs.3.rs-2644725/v1
+Anonymization Through Data Synthesis Using Generative Adversarial Networks (ADS-GAN),Yoon J,IEEE J Biomed Health Inform,2020,10.1109/JBHI.2020.2980262
+Cross-validation approaches for penalized Cox regression,Dai B,Stat Methods Med Res,2024,10.1177/09622802241233770
+Fold-stratified cross-validation for unbiased and privacy-preserving federated learning,Bey R,J Am Med Inform Assoc,2020,10.1093/jamia/ocaa096
+Estimating determinants of healthcare establishment locations with restricted federal administrative data,Van Sandt A,Health Econ,2021,10.1002/hec.4242
+Diffusion-based conditional ECG generation with structured state space models,Alcaraz JML,Comput Biol Med,2023,10.1016/j.compbiomed.2023.107115
+Effect of imbalanced sampling and missing data on associations between gender norms and risk of adolescent HIV,Gupta R,EClinicalMedicine,2022,10.1016/j.eclinm.2022.101513
+The Use of Synthetic Electronic Health Record Data and Deep Learning to Improve Timing of High-Risk Heart Failure Surgical Intervention by Predicting Proximity to Catastrophic Decompensation,Guo A,Front Digit Health,2020,10.3389/fdgth.2020.576945
+Integrating multidimensional data for clustering analysis with applications to cancer patient data,Park S,J Am Stat Assoc,2021,10.1080/01621459.2020.1730853
+An evaluation of synthetic data augmentation for mitigating covariate bias in health data,Juwara L,Patterns (N Y),2024,10.1016/j.patter.2024.100946
+Penalized Poisson model for network meta-analysis of individual patient time-to-event data,Ollier E,Stat Med,2022,10.1002/sim.9240
+Spot the difference: comparing results of analyses from real patient data and synthetic derivatives,Foraker RE,JAMIA Open,2020,10.1093/jamiaopen/ooaa060
+Demonstrating an approach for evaluating synthetic geospatial and temporal epidemiologic data utility: results from analyzing >1.8 million SARS-CoV-2 tests in the United States National COVID Cohort Collaborative (N3C),Thomas JA,J Am Med Inform Assoc,2022,10.1093/jamia/ocac045
+A flexible mixed-data model applied to claims data for post-market surveillance of prescription drug safety behavior,Butler H,Pharm Stat,2022,10.1002/pst.2213
+A comparison of Bayesian spatial models for disease mapping,Best N,Stat Methods Med Res,2005,10.1191/0962280205sm388oa
+Synthesizing electronic health records using improved generative adversarial networks,Baowaly MK,J Am Med Inform Assoc,2019,10.1093/jamia/ocy142
+Exploring the utility of synthetic data to extract more value from sensitive health data assets: A focused example in perinatal epidemiology,Braddon AE,Paediatr Perinat Epidemiol,2023,10.1111/ppe.12942
+The challenge of detecting genotype-by-methylation interaction: GAW20,de Andrade M,BMC Genet,2018,10.1186/s12863-018-0650-7
+The National COVID Cohort Collaborative: Analyses of Original and Computationally Derived Electronic Health Record Data,Foraker R,J Med Internet Res,2021,10.2196/30697
+Estimating parameters for probabilistic linkage of privacy-preserved datasets,Brown AP,BMC Med Res Methodol,2017,10.1186/s12874-017-0370-0
+National influenza surveillance systems in five European countries: a qualitative comparative framework based on WHO guidance,de Fougerolles TR,BMC Public Health,2022,10.1186/s12889-022-13433-0
+Bayesian Multi-View Clustering given complex inter-view structure,Shapiro BD,F1000Res,2024,10.12688/f1000research.126215.2
+Modelling NHS England 111 demand for primary care services: a discrete event simulation,Pilbery R,BMJ Open,2023,10.1136/bmjopen-2023-076203
+Machine learning for comprehensive forecasting of Alzheimer's Disease progression,Fisher CK,Sci Rep,2019,10.1038/s41598-019-49656-2
+An adaptive information-theoretic experimental design procedure for high-to-low fidelity calibration of prostate cancer models,Cho H,Math Biosci Eng,2023,10.3934/mbe.2023799
+Novel phenotype-disease matching tool for rare genetic diseases,Chen J,Genet Med,2019,10.1038/s41436-018-0050-4
+Hybrid Deep Learning Approach for Accurate Tumor Detection in Medical Imaging Data,Cifci MA,Diagnostics (Basel),2023,10.3390/diagnostics13061025
+A Simulation Framework for Modeling the Within-Patient Evolutionary Dynamics of SARS-CoV-2,Terbot JW 2nd,Genome Biol Evol,2023,10.1093/gbe/evad204
+A two-step deep learning method for 3DCT-2DUS kidney registration during breathing,Chi Y,Sci Rep,2023,10.1038/s41598-023-40133-5
+Harnessing the heart of big data,Scruggs SB,Circ Res,2015,10.1161/CIRCRESAHA.115.306013
+Sensitivity of estimated tacrolimus population pharmacokinetic profile to assumed dose timing and absorption in real-world data and simulated data,Williams ML,Br J Clin Pharmacol,2022,10.1111/bcp.15218
+DETECT: Feature extraction method for disease trajectory modeling in electronic health records,Singhal P,AMIA Jt Summits Transl Sci Proc,2023,
+Measuring and Promoting SARS-CoV-2 Vaccine Equity: Development of a COVID-19 Vaccine Equity Index,Pressman AR,Health Equity,2021,10.1089/heq.2021.0047
+Analyzing Medical Research Results Based on Synthetic Data and Their Relation to Real Data Results: Systematic Comparison From Five Observational Studies,Reiner Benaim A,JMIR Med Inform,2020,10.2196/16492
+CACONET: a novel classification framework for microbial correlation networks,Xu Y,Bioinformatics,2022,10.1093/bioinformatics/btab879
+A simulation framework for modeling the within-patient evolutionary dynamics of SARS-CoV-2,Terbot JW 2nd,bioRxiv,2023,10.1101/2023.07.13.548462
+"Attitudes and perceptions of teachers toward mental health literacy: A case of Odzi High School, Mutare District, Zimbabwe",Sibanda T,Front Psychol,2022,10.3389/fpsyg.2022.1003115
+Interdisciplinary Teams in Health Informatics: Using FHIR Standards to Share Computable Knowledge,Andrikopoulou E,Stud Health Technol Inform,2023,10.3233/SHTI230201
+Establishing a Data Quality Baseline in the AKTIN Emergency Department Data Registry - A Secondary Use Perspective,Triefenbach L,Stud Health Technol Inform,2022,10.3233/SHTI220439
+The Architecture of a Feasibility Query Portal for Distributed COVID-19 Fast Healthcare Interoperability Resources (FHIR) Patient Data Repositories: Design and Implementation Study,Gruendner J,JMIR Med Inform,2022,10.2196/36709
+Series: Pragmatic trials and real world evidence: Paper 8. Data collection and management,Meinecke AK,J Clin Epidemiol,2017,10.1016/j.jclinepi.2017.07.003
+Using Synthetic Data to Replace Linkage Derived Elements: A Case Study,Resnick DM,Health Serv Outcomes Res Methodol,2021,10.1007/s10742-021-00241-z
+A cautionary note on the use of G-computation in population adjustment,Vo TT,Res Synth Methods,2023,10.1002/jrsm.1621
+Evaluating bias due to data linkage error in electronic healthcare records,Harron K,BMC Med Res Methodol,2014,10.1186/1471-2288-14-36
+Health Data Entanglement and artificial intelligence-based analysis: a brand new methodology to improve the effectiveness of healthcare services,Capone A,Clin Ter,2016,10.7417/CT.2016.1952
+Nonstationary multivariate Gaussian processes for electronic health records,Meng R,J Biomed Inform,2021,10.1016/j.jbi.2021.103698
+"Novel Generative Recurrent Neural Network Framework to Produce Accurate, Applicable, and Deidentified Synthetic Medical Data for Patients With Metastatic Cancer",Ganguli R,JCO Clin Cancer Inform,2023,10.1200/CCI.22.00125
+Image reconstruction using UNET-transformer network for fast and low-dose PET scans,Kaviani S,Comput Med Imaging Graph,2023,10.1016/j.compmedimag.2023.102315
+Healthcare professionals' perspectives on identifying and managing perinatal anxiety: a qualitative study,Silverwood V,Br J Gen Pract,2019,10.3399/bjgp19X706025
+Digital Medical Device Companion (MyIUS) for New Users of Intrauterine Systems: App Development Study,Karakoyun T,JMIR Med Inform,2021,10.2196/24633
+"Isabl Platform, a digital biobank for processing multimodal patient data",Medina-Martínez JS,BMC Bioinformatics,2020,10.1186/s12859-020-03879-7
+The potential of convolutional neural networks for identifying neural states based on electrophysiological signals: experiments on synthetic and real patient data,Rodriguez F,Front Hum Neurosci,2023,10.3389/fnhum.2023.1134599
+Voxelwise statistical methods to localize practice variation in brain tumor surgery,Eijgelaar R,PLoS One,2019,10.1371/journal.pone.0222939
+Monte Carlo decision curve analysis using aggregate data,Hozo I,Eur J Clin Invest,2017,10.1111/eci.12723
+AI and semantic ontology for personalized activity eCoaching in healthy lifestyle recommendations: a meta-heuristic approach,Chatterjee A,BMC Med Inform Decis Mak,2023,10.1186/s12911-023-02364-4
+Generation of annotated multimodal ground truth datasets for abdominal medical image registration,Bauer DF,Int J Comput Assist Radiol Surg,2021,10.1007/s11548-021-02372-7
+Can I trust my fake data - A comprehensive quality assessment framework for synthetic tabular data in healthcare,Vallevik VB,Int J Med Inform,2024,10.1016/j.ijmedinf.2024.105413
+Trends in Use and Perceptions About Triplet Chemotherapy Plus Bevacizumab for Metastatic Colorectal Cancer,van Nassau SC,JAMA Netw Open,2021,10.1001/jamanetworkopen.2021.24766
+Pathway Lasso: Pathway Estimation and Selection with High-Dimensional Mediators,Zhao Y,Stat Interface,2022,10.4310/21-sii673
+A Generative Adversarial Network (GAN) Technique for Internet of Medical Things Data,Vaccari I,Sensors (Basel),2021,10.3390/s21113726
+Deep learning for cranioplasty in clinical practice: Going from synthetic to real patient data,Kodym O,Comput Biol Med,2021,10.1016/j.compbiomed.2021.104766
+"Healthcare for migrants, participatory health research and implementation science--better health policy and practice through inclusion. The RESTORE project",MacFarlane A,Eur J Gen Pract,2014,10.3109/13814788.2013.868432
+Generation of a Realistic Synthetic Laryngeal Cancer Cohort for AI Applications,Katalinic M,Cancers (Basel),2024,10.3390/cancers16030639
+A non-linear regression method for estimation of gene-environment heritability,Kerin M,Bioinformatics,2021,10.1093/bioinformatics/btaa1079
+Postprediction Inference for Clinical Characteristics Extracted With Machine Learning on Electronic Health Records,Sondhi A,JCO Clin Cancer Inform,2023,10.1200/CCI.22.00174
+Development of a Synthetic Population Model for Assessing Excess Risk for Cardiovascular Disease Death,Krauland MG,JAMA Netw Open,2020,10.1001/jamanetworkopen.2020.15047
+Hypersphere clustering to characterize healthcare providers using prescriptions and procedures from Medicare claims data,Fillmore N,AMIA Annu Symp Proc,2020,
+Informative missingness in electronic health record systems: the curse of knowing,Groenwold RHH,Diagn Progn Res,2020,10.1186/s41512-020-00077-0
+Deep Aging Clocks: The Emergence of AI-Based Biomarkers of Aging and Longevity,Zhavoronkov A,Trends Pharmacol Sci,2019,10.1016/j.tips.2019.05.004
+Encoding of Numerical Data for Privacy-Preserving Record Linkage,Demelius L,Stud Health Technol Inform,2020,10.3233/SHTI200070
+"Calculating Power by Bootstrap, with an Application to Cluster-Randomized Trials",Kleinman K,EGEMS (Wash DC),2017,10.13063/2327-9214.1202
+Optimization of DCE-MRI protocol for the assessment of patients with brain tumors,Artzi M,Magn Reson Imaging,2016,10.1016/j.mri.2016.07.003
+Assessing function of electronic health records for real-world data generation,Guinn D,BMJ Evid Based Med,2019,10.1136/bmjebm-2018-111111
+LDP-GAN : Generative adversarial networks with local differential privacy for patient medical records synthesis,Gwon H,Comput Biol Med,2024,10.1016/j.compbiomed.2023.107738
+Access to primary mental health care for hard-to-reach groups: from 'silent suffering' to 'making it work',Kovandžić M,Soc Sci Med,2011,10.1016/j.socscimed.2010.11.027
+Predicting 5-year dementia conversion in veterans with mild cognitive impairment,Irwin C,Alzheimers Dement (Amst),2024,10.1002/dad2.12572
+Time warping between main epidemic time series in epidemiological surveillance,Morel JD,PLoS Comput Biol,2023,10.1371/journal.pcbi.1011757
+Secure Record Linkage of Large Health Data Sets: Evaluation of a Hybrid Cloud Model,Brown AP,JMIR Med Inform,2020,10.2196/18920
+Robust Collaborative Clustering of Subjects and Radiomic Features for Cancer Prognosis,Liu H,IEEE Trans Biomed Eng,2020,10.1109/TBME.2020.2969839
+Multi-view representation learning for tabular data integration using inter-feature relationships,Tripathi S,J Biomed Inform,2024,10.1016/j.jbi.2024.104602
+Internal Motion Estimation by Internal-external Motion Modeling for Lung Cancer Radiotherapy,Chen H,Sci Rep,2018,10.1038/s41598-018-22023-3
+Quantifying the Effect of Data Quality on the Validity of an eMeasure,Johnson SG,Appl Clin Inform,2017,10.4338/ACI-2017-03-RA-0042
+Comparative assessment of synthetic time series generation approaches in healthcare: leveraging patient metadata for accurate data synthesis,Isasa I,BMC Med Inform Decis Mak,2024,10.1186/s12911-024-02427-0
+"Addressing Posttreatment Selection Bias in Comparative Effectiveness Research, Using Real-World Data and Simulation",Belviso N,Am J Epidemiol,2022,10.1093/aje/kwab242
+A comparison of confounder selection and adjustment methods for estimating causal effects using large healthcare databases,Benasseur I,Pharmacoepidemiol Drug Saf,2022,10.1002/pds.5403
+On the practical identifiability of a two-parameter model of pulmonary gas exchange,Riedlinger A,Biomed Eng Online,2015,10.1186/s12938-015-0077-6
+Accounting for treatment use when validating a prognostic model: a simulation study,Pajouheshnia R,BMC Med Res Methodol,2017,10.1186/s12874-017-0375-8
+Can the Use of Bayesian Analysis Methods Correct for Incompleteness in Electronic Health Records Diagnosis Data? Development of a Novel Method Using Simulated and Real-Life Clinical Data,Ford E,Front Public Health,2020,10.3389/fpubh.2020.00054
+Enriching Data Science and Health Care Education: Application and Impact of Synthetic Data Sets Through the Health Gym Project,Kuo NI,JMIR Med Educ,2024,10.2196/51388
+A comprehensive review and shiny application on the matching-adjusted indirect comparison,Jiang Z,Res Synth Methods,2024,10.1002/jrsm.1709
+Development of Integrated Data Quality Management System for Observational Medical Outcomes Partnership Common Data Model,Oh SW,Stud Health Technol Inform,2024,10.3233/SHTI230985
+Adaptive Sparsity Regularization Based Collaborative Clustering for Cancer Prognosis,Liu H,Med Image Comput Comput Assist Interv,2019,10.1007/978-3-030-32251-9_64
+The validity of synthetic clinical data: a validation study of a leading synthetic data generator (Synthea) using clinical quality measures,Chen J,BMC Med Inform Decis Mak,2019,10.1186/s12911-019-0793-0
+Clustering and Kernel Density Estimation for Assessment of Measurable Residual Disease by Flow Cytometry,Jacqmin H,Diagnostics (Basel),2020,10.3390/diagnostics10050317
+Reusable data in public health data-bases-problems encountered in Danish Children's Database,Høstgaard AM,Stud Health Technol Inform,2012,
+FedFSA: Hybrid and federated framework for functional status ascertainment across institutions,Fu S,J Biomed Inform,2024,10.1016/j.jbi.2024.104623
+Benefit-Risk Monitoring of Vaccines Using an Interactive Dashboard: A Methodological Proposal from the ADVANCE Project,Bollaerts K,Drug Saf,2018,10.1007/s40264-018-0658-y
+"Use of an open-source electronic health record to establish a ""virtual hospital"": A tale of two curricula",Medlock S,Int J Med Inform,2023,10.1016/j.ijmedinf.2022.104907
+Next generation phenotyping using the unified medical language system,Adamusiak T,JMIR Med Inform,2014,10.2196/medinform.3172
+Flexible propensity score estimation strategies for clustered data in observational studies,Chang TH,Stat Med,2022,10.1002/sim.9551
+A comparative patient-level prediction study in OMOP CDM: applicative potential and insights from synthetic data,Ahmadi N,Sci Rep,2024,10.1038/s41598-024-52723-y
+The Use of Electronic Medical Record Data to Analyze the Association Between Atrial Fibrillation and Birth Month,Matsuda K,Online J Public Health Inform,2017,10.5210/ojphi.v9i3.7864
+Statistical implications of endogeneity induced by residential segregation in small-area modelling of health inequities,Nethery RC,Am Stat,2022,10.1080/00031305.2021.2003245
+A comparative study: classification vs. user-based collaborative filtering for clinical prediction,Hao F,BMC Med Res Methodol,2016,10.1186/s12874-016-0261-9
+[Biomedical engineering supports surgical planning and interventions],Dickhaus H,Bundesgesundheitsblatt Gesundheitsforschung Gesundheitsschutz,2010,10.1007/s00103-010-1100-5
+Generalizing observational study results: applying propensity score methods to complex surveys,Dugoff EH,Health Serv Res,2014,10.1111/1475-6773.12090
+Unleashing the Power of Very Small Data to Predict Acute Exacerbations of Chronic Obstructive Pulmonary Disease,Jacobson PK,Int J Chron Obstruct Pulmon Dis,2023,10.2147/COPD.S412692
+Beyond trust: Amplifying unheard voices on concerns about harm resulting from health data-sharing,Mulrine S,Med Access Point Care,2021,10.1177/23992026211048421
+Proof-of-concept study: Homomorphically encrypted data can support real-time learning in personalized cancer medicine,Paddock S,BMC Med Inform Decis Mak,2019,10.1186/s12911-019-0983-9
+Generative Model of Brain Microbleeds for MRI Detection of Vascular Marker of Neurodegenerative Diseases,Momeni S,Front Neurosci,2021,10.3389/fnins.2021.778767
+Evaluating the detection ability of a range of epistasis detection methods on simulated data for pure and impure epistatic models,Russ D,PLoS One,2022,10.1371/journal.pone.0263390
+The Bland-Altman method should not be used when one of the two measurement methods has negligible measurement errors,Taffé P,PLoS One,2022,10.1371/journal.pone.0278915
+Fast and optimal algorithm for case-control matching using registry data: application on the antibiotics use of colorectal cancer patients,Mamouris P,BMC Med Res Methodol,2021,10.1186/s12874-021-01256-3
+Multi-Perspective Process Mining Interfaces for HL7 AuditEvent Repositories: XES and OCEL,Pointner A,Stud Health Technol Inform,2023,10.3233/SHTI230034
+Improving diabetes disease patients classification using stacking ensemble method with PIMA and local healthcare data,Reza MS,Heliyon,2024,10.1016/j.heliyon.2024.e24536
+"Synthea: An approach, method, and software mechanism for generating synthetic patients and the synthetic electronic health care record",Walonoski J,J Am Med Inform Assoc,2018,10.1093/jamia/ocx079
+Motion Sensor-Based Detection of Outlier Days Supporting Continuous Health Assessment for Single Older Adults,Mertens M,Sensors (Basel),2021,10.3390/s21186080
+A linearization approach for the model-based analysis of combined aggregate and individual patient data,Ravva P,Stat Med,2014,10.1002/sim.6045
+A joint learning method for incomplete and imbalanced data in electronic health record based on generative adversarial networks,Weng X,Comput Biol Med,2024,10.1016/j.compbiomed.2023.107687
+Detection of COVID-19 features in lung ultrasound images using deep neural networks,Zhao L,Commun Med (Lond),2024,10.1038/s43856-024-00463-5
+Production and use of estimates for monitoring progress in the health sector: the case of Bangladesh,Ahsan KZ,Glob Health Action,2017,10.1080/16549716.2017.1298890
+Active safety monitoring of new medical products using electronic healthcare data: selecting alerting rules,Gagne JJ,Epidemiology,2012,10.1097/EDE.0b013e3182459d7d
+"High-dimensional propensity scores for empirical covariate selection in secondary database studies: Planning, implementation, and reporting",Rassen JA,Pharmacoepidemiol Drug Saf,2023,10.1002/pds.5566
+Real-time markerless tumour tracking with patient-specific deep learning using a personalised data generation strategy: proof of concept by phantom study,Takahashi W,Br J Radiol,2020,10.1259/bjr.20190420
+Semi-supervised ROC analysis for reliable and streamlined evaluation of phenotyping algorithms,Gao J,J Am Med Inform Assoc,2024,10.1093/jamia/ocad226
+Spatio-temporal physics-informed learning: A novel approach to CT perfusion analysis in acute ischemic stroke,de Vries L,Med Image Anal,2023,10.1016/j.media.2023.102971
+Comparing Findings From a Friends of Cancer Research Exploratory Analysis of Real-World End Points With the Cancer Analysis System in England,Horvat P,JCO Clin Cancer Inform,2021,10.1200/CCI.21.00013
+Case report: evaluation of an open-source synthetic data platform for simulation studies,Meeker D,JAMIA Open,2022,10.1093/jamiaopen/ooac067
+Deep learning-based markerless lung tumor tracking in stereotactic radiotherapy using Siamese networks,Grama D,Med Phys,2023,10.1002/mp.16470
+Reliability of Supervised Machine Learning Using Synthetic Data in Health Care: Model to Preserve Privacy for Data Sharing,Rankin D,JMIR Med Inform,2020,10.2196/18910
+Producing routine malaria data: an exploration of the micro-practices and processes shaping routine malaria data quality in frontline health facilities in Kenya,Okello G,Malar J,2019,10.1186/s12936-019-3061-y
+Barriers to data quality resulting from the process of coding health information to administrative data: a qualitative study,Lucyk K,BMC Health Serv Res,2017,10.1186/s12913-017-2697-y
+Brain MR image denoising for Rician noise using pre-smooth non-local means filter,Yang J,Biomed Eng Online,2015,10.1186/1475-925X-14-2
+Preferences for Sun Protection With a Self-Monitoring App: Protocol of a Discrete Choice Experiment Study,Nittas V,JMIR Res Protoc,2020,10.2196/16087
+The application of unsupervised deep learning in predictive models using electronic health records,Wang L,BMC Med Res Methodol,2020,10.1186/s12874-020-00923-1
+The process of patient enablement in general practice nurse consultations: a grounded theory study,Desborough J,J Adv Nurs,2017,10.1111/jan.13199
+An integrated and sustainable EU health information system: national public health institutes' needs and possible benefits,Bogaert P,Arch Public Health,2017,10.1186/s13690-016-0171-7
+Mimicking clinical trials with synthetic acute myeloid leukemia patients using generative artificial intelligence,Eckardt JN,NPJ Digit Med,2024,10.1038/s41746-024-01076-x
+Using uncertain data from body-worn sensors to gain insight into type 1 diabetes,Heintzman N,J Biomed Inform,2016,10.1016/j.jbi.2016.08.022
+Probabilistic record linkage of de-identified research datasets with discrepancies using diagnosis codes,Hejblum BP,Sci Data,2019,10.1038/sdata.2018.298
+Participation is integral': understanding the levers and barriers to the implementation of community participation in primary healthcare: a qualitative study using normalisation process theory,McEvoy R,BMC Health Serv Res,2019,10.1186/s12913-019-4331-7
+Microbiome-based risk prediction in incident heart failure: a community challenge,Erawijantari PP,medRxiv,2023,10.1101/2023.10.12.23296829
+Implementation of a graph-embedded topic model for analysis of population-level electronic health records,Wang Y,STAR Protoc,2023,10.1016/j.xpro.2022.101966
+Impact of discretization of the timeline for longitudinal causal inference methods,Ferreira Guerra S,Stat Med,2020,10.1002/sim.8710
+The Use of Mobile Personal Health Records for Hemoglobin A1c Regulation in Patients With Diabetes: Retrospective Observational Study,Seo D,J Med Internet Res,2020,10.2196/15372
+FastClone is a probabilistic tool for deconvoluting tumor heterogeneity in bulk-sequencing samples,Xiao Y,Nat Commun,2020,10.1038/s41467-020-18169-2
+Robust estimation of the effect of an exposure on the change in a continuous outcome,Ning Y,BMC Med Res Methodol,2020,10.1186/s12874-020-01027-6
+Privacy-preserving heterogeneous health data sharing,Mohammed N,J Am Med Inform Assoc,2013,10.1136/amiajnl-2012-001027
+D3D augmented reality imaging system: proof of concept in mammography,Douglas DB,Med Devices (Auckl),2016,10.2147/MDER.S110756
+Improving the performance of machine learning penicillin adverse drug reaction classification with synthetic data and transfer learning,Stanekova V,Intern Med J,2024,10.1111/imj.16360
+Dealing with missing outcome data in randomized trials and observational studies,Groenwold RH,Am J Epidemiol,2012,10.1093/aje/kwr302
+Robust analysis of stepped wedge trials using cluster-level summaries within periods,Thompson JA,Stat Med,2018,10.1002/sim.7668
+Process evaluation of the data-driven quality improvement in primary care (DQIP) trial: active and less active ingredients of a multi-component complex intervention to reduce high-risk primary care prescribing,Grant A,Implement Sci,2017,10.1186/s13012-016-0531-2
+"Provision of chlamydia testing, and training of primary health care staff about chlamydia testing, across four European countries",Uusküla A,BMC Public Health,2014,10.1186/1471-2458-14-1147
+Street masking: a network-based geographic mask for easily protecting geoprivacy,Swanlund D,Int J Health Geogr,2020,10.1186/s12942-020-00219-z
+On Left Ventricle Stroke Work Efficiency in Children with Moderate Aortic Valve Regurgitation or Moderate Aortic Valve Stenosis,Asaadi M,Pediatr Cardiol,2022,10.1007/s00246-021-02690-2
+Adjustment for unmeasured confounding through informative priors for the confounder-outcome relation,Groenwold RHH,BMC Med Res Methodol,2018,10.1186/s12874-018-0634-3
+Continuous time recurrent neural networks: Overview and benchmarking at forecasting blood glucose in the intensive care unit,Fitzgerald O,J Biomed Inform,2023,10.1016/j.jbi.2023.104498
+Adapting national data systems for donor transition: comparative analysis of experience from Georgia and China,Chikovani I,Health Policy Plan,2024,10.1093/heapol/czad098
+ConvSCCS: convolutional self-controlled case series model for lagged adverse event detection,Morel M,Biostatistics,2020,10.1093/biostatistics/kxz003
+"""Real-World"" De-Identification of High-Dimensional Transactional Health Datasets",Moselle KA,Stud Health Technol Inform,2019,
+Deconvolution of Tc-99m-Mercaptoacetyltriglycine Renograms with the Concomitant Use of a Sparse Legendre Polynomial Representation and the Moore-Penrose Pseudo-inverse,Destine M,Mol Imaging Radionucl Ther,2022,10.4274/mirt.galenos.2021.17363
+A Privacy-Preserving Log-Rank Test for the Kaplan-Meier Estimator With Secure Multiparty Computation: Algorithm Development and Validation,von Maltitz M,JMIR Med Inform,2021,10.2196/22158
+Intention to Use an Electronic Community Health Information System Among Health Extension Workers in Rural Northwest Ethiopia: Cross-Sectional Study Using the Unified Theory of Acceptance and Use of Technology 2 Model,Hailemariam T,JMIR Hum Factors,2024,10.2196/47081
+Ranking of average treatment effects with generalized random forests for time-to-event outcomes,Rytgaard HCW,Stat Med,2023,10.1002/sim.9686
+Utility of deep learning networks for the generation of artificial cardiac magnetic resonance images in congenital heart disease,Diller GP,BMC Med Imaging,2020,10.1186/s12880-020-00511-1
+Frequent Causal Pattern Mining: A Computationally Efficient Framework For Estimating Bias-Corrected Effects,Yadav P,Proc IEEE Int Conf Big Data,2019,10.1109/bigdata47090.2019.9005977
+Semantic representation and comparative analysis of physical activity sensor observations using MOX2-5 sensor in real and synthetic datasets: a proof-of-concept-study,Chatterjee A,Sci Rep,2024,10.1038/s41598-024-55183-6
+Spatial mixture multiscale modeling for aggregated health data,Aregay M,Biom J,2016,10.1002/bimj.201500168
+Cross-comparison of three electromyogram decomposition algorithms assessed with experimental and simulated data,Dai C,IEEE Trans Neural Syst Rehabil Eng,2015,10.1109/TNSRE.2014.2322586
+Use of a common spreadsheet program to demonstrate the ability of Bayesian forecasting to estimate the pharmacokinetic parameters of antibiotics,Brocks DR,J Pharm Pharmacol,2023,10.1093/jpp/rgad068
+"Incidence, prevalence, and trends in endometriosis diagnosis: a United States population-based study from 2006 to 2015",Christ JP,Am J Obstet Gynecol,2021,10.1016/j.ajog.2021.06.067
+Bridging the gap between complexity science and clinical practice by formalizing idiographic theories: a computational model of functional analysis,Burger J,BMC Med,2020,10.1186/s12916-020-01558-1
+Analysis of survival adjusted for quality of life using the Q-TWiST function: Interface in R,Bogart E,Comput Methods Programs Biomed,2016,10.1016/j.cmpb.2015.11.005
+An Intelligent Healthcare Cyber Physical Framework for Encephalitis Diagnosis Based on Information Fusion and Soft-Computing Techniques,Gupta A,New Gener Comput,2022,10.1007/s00354-022-00175-1
+Supervised and Unsupervised Approaches for the Real-Time Detection of Undesired Insulin Suspension Caused by Malfunctions,Idi E,J Diabetes Sci Technol,2024,10.1177/19322968241248402
+Application of a nonrandomized stepped wedge design to evaluate an evidence-based quality improvement intervention: a proof of concept using simulated data on patient-centered medical homes,Huynh AK,BMC Med Res Methodol,2016,10.1186/s12874-016-0244-x
+Exploring levers and barriers to accessing primary care for marginalised groups and identifying their priorities for primary care provision: a participatory learning and action research study,O'Donnell P,Int J Equity Health,2016,10.1186/s12939-016-0487-5
+Clinical Decision Support Systems: From the Perspective of Small and Imbalanced Data Set,Par OE,Stud Health Technol Inform,2019,10.3233/SHTI190089
+Comparing multilevel and multiscale convolution models for small area aggregated health data,Aregay M,Spat Spatiotemporal Epidemiol,2017,10.1016/j.sste.2017.06.001
+A framework for the economic analysis of data collection methods for vital statistics,Jimenez-Soto E,PLoS One,2014,10.1371/journal.pone.0106234
+Challenges in the design and analysis of sequentially monitored postmarket safety surveillance evaluations using electronic observational health care data,Nelson JC,Pharmacoepidemiol Drug Saf,2012,10.1002/pds.2324
+Machine learning models trained on synthetic datasets of multiple sample sizes for the use of predicting blood pressure from clinical data in a national dataset,Arora A,PLoS One,2023,10.1371/journal.pone.0283094
+Primary health care for remote village communities in Honduras: a model for training and support of community health workers,Rennert W,Fam Med,2009,
+Hospital treatment costs and length of stay associated with hypertension and multimorbidity after hemorrhagic stroke,Specogna AV,BMC Neurol,2017,10.1186/s12883-017-0930-2
+"A joint model for multistate disease processes and random informative observation times, with applications to electronic medical records data",Lange JM,Biometrics,2015,10.1111/biom.12252
+Monte Carlo simulations of clinical PET and SPECT scans: impact of the input data on the simulated images,Stute S,Phys Med Biol,2011,10.1088/0031-9155/56/19/017
+MPL resolves genetic linkage in fitness inference from complex evolutionary histories,Sohail MS,Nat Biotechnol,2021,10.1038/s41587-020-0737-3
+A framework for the detection of de novo mutations in family-based sequencing data,Francioli LC,Eur J Hum Genet,2017,10.1038/ejhg.2016.147
+Anatomically-aided PET reconstruction using the kernel method,Hutchcroft W,Phys Med Biol,2016,10.1088/0031-9155/61/18/6668
+An ear-worn sensor for the detection of gait impairment after abdominal surgery,Atallah L,Surg Innov,2013,10.1177/1553350612445639
+Application of Extreme Learning Machine in the Survival Analysis of Chronic Heart Failure Patients With High Percentage of Censored Survival Time,Yang H,Front Cardiovasc Med,2021,10.3389/fcvm.2021.726516
+A probabilistic generative model to discover the treatments of coexisting diseases with missing data,Zaballa O,Comput Methods Programs Biomed,2024,10.1016/j.cmpb.2023.107870
+"Unravelling relationships: Hospital occupancy levels, discharge timing and emergency department access block",Khanna S,Emerg Med Australas,2012,10.1111/j.1742-6723.2012.01587.x
+New methods for estimating local electrical activation rate during atrial fibrillation,Ciaccio EJ,Heart Rhythm,2009,10.1016/j.hrthm.2008.10.016
+A Bayesian inference method to estimate transmission trees with multiple introductions; applied to SARS-CoV-2 in Dutch mink farms,Van der Roest BR,PLoS Comput Biol,2023,10.1371/journal.pcbi.1010928
+An intelligent system for predicting and preventing MERS-CoV infection outbreak,Sandhu R,J Supercomput,2016,10.1007/s11227-015-1474-0
+Anomaly Identification during Polymerase Chain Reaction for Detecting SARS-CoV-2 Using Artificial Intelligence Trained from Simulated Data,Villarreal-González R,Molecules,2020,10.3390/molecules26010020
+General practitioners' perceptions of COPD treatment: thematic analysis of qualitative interviews,Molin KR,Int J Chron Obstruct Pulmon Dis,2016,10.2147/COPD.S108611
+Material practices for meaningful engagement: An analysis of participatory learning and action research techniques for data generation and analysis in a health research partnership,O'Reilly-de Brún M,Health Expect,2018,10.1111/hex.12598
+Patient-Specific Biomechanical Modeling for Guidance During Minimally-Invasive Hepatic Surgery,Plantefève R,Ann Biomed Eng,2016,10.1007/s10439-015-1419-z
+A Bayesian Framework to Identify Type 1 Diabetes Physiological Models Using Easily Accessible Patient Data,Cappon G,Annu Int Conf IEEE Eng Med Biol Soc,2019,10.1109/EMBC.2019.8856846
+GatewayNet: a form of sequential rule mining,Kilgore PCSR,BMC Med Inform Decis Mak,2019,10.1186/s12911-019-0810-3
+Diagnostic Evidence GAuge of Single cells (DEGAS): a flexible deep transfer learning framework for prioritizing cells in relation to disease,Johnson TS,Genome Med,2022,10.1186/s13073-022-01012-2
+An Investigation of Stochastic Variance Reduction Algorithms for Relative Difference Penalized 3D PET Image Reconstruction,Twyman R,IEEE Trans Med Imaging,2023,10.1109/TMI.2022.3203237
+Validation of non-participation bias methodology based on record-linked Finnish register-based health survey data: a protocol paper,McMinn MA,BMJ Open,2019,10.1136/bmjopen-2018-026187
+A Generative and Causal Pharmacokinetic Model for Factor VIII in Hemophilia A: A Machine Learning Framework for Continuous Model Refinement,Janssen A,Clin Pharmacol Ther,2024,10.1002/cpt.3203
+Conducting a team-based multi-sited focused ethnography in primary care,Bikker AP,BMC Med Res Methodol,2017,10.1186/s12874-017-0422-5
+Effectiveness and safety of rivaroxaban vs. warfarin in patients with non-valvular atrial fibrillation and heart failure,Martinez BK,ESC Heart Fail,2019,10.1002/ehf2.12365
+Performance of unanchored matching-adjusted indirect comparison (MAIC) for the evidence synthesis of single-arm trials with time-to-event outcomes,Jiang Y,BMC Med Res Methodol,2020,10.1186/s12874-020-01124-6
+Plasmode simulation for the evaluation of pharmacoepidemiologic methods in complex healthcare databases,Franklin JM,Comput Stat Data Anal,2014,10.1016/j.csda.2013.10.018
+Comparing measured and simulated wave directions in the left atrium - a workflow for model personalization and validation,Burdumy M,Biomed Tech (Berl),2012,10.1515/bmt-2011-0059
+Use of real-world evidence for healthcare decision-making in the Middle East: practical considerations and future directions,Akhras KS,Expert Rev Pharmacoecon Outcomes Res,2019,10.1080/14737167.2019.1568243
+Prediction of expiratory desflurane and sevoflurane concentrations in lung-healthy patients utilizing cardiac output and alveolar ventilation matched pharmacokinetic models: A comparative observational study,Weber J,Medicine (Baltimore),2021,10.1097/MD.0000000000023570
+Determination of gamma camera calibration factors for quantitation of therapeutic radioisotopes,Zhao W,EJNMMI Phys,2018,10.1186/s40658-018-0208-9
+Online model checking for monitoring surrogate-based respiratory motion tracking in radiation therapy,Antoni ST,Int J Comput Assist Radiol Surg,2016,10.1007/s11548-016-1423-2
+Investigating heterogeneity in an individual patient data meta-analysis of time to event outcomes,Smith CT,Stat Med,2005,10.1002/sim.2050
+Assessing and increasing patient panel size in the public sector,Marx R,J Public Health Manag Pract,2011,10.1097/PHH.0b013e318211393c
+MicroRNA and Transcription Factor Gene Regulatory Network Analysis Reveals Key Regulatory Elements Associated with Prostate Cancer Progression,Sadeghi M,PLoS One,2016,10.1371/journal.pone.0168760
+Assessing the ability of health information systems in hospitals to support evidence-informed decisions in Kenya,Kihuba E,Glob Health Action,2014,10.3402/gha.v7.24859
+A tutorial on individualized treatment effect prediction from randomized trials with a binary endpoint,Hoogland J,Stat Med,2021,10.1002/sim.9154
+A comparative study of clinical trial and real-world data in patients with diabetic kidney disease,Kurki S,Sci Rep,2024,10.1038/s41598-024-51938-3
+Fast parameter inference in a biomechanical model of the left ventricle by using statistical emulation,Davies V,J R Stat Soc Ser C Appl Stat,2019,10.1111/rssc.12374
+Integration of elicited expert information via a power prior in Bayesian variable selection: Application to colon cancer data,Boulet S,Stat Methods Med Res,2020,10.1177/0962280219841082
+Best (but oft-forgotten) practices: propensity score methods in clinical nutrition research,Ali MS,Am J Clin Nutr,2016,10.3945/ajcn.115.125914
+Drug-drug interaction potential among patients with nonmetastatic castration-resistant prostate cancer (nmCRPC) treated with novel androgen receptor inhibitors,Appukkuttan S,Expert Rev Anticancer Ther,2024,10.1080/14737140.2024.2328778
+A roadmap for applying machine learning when working with privacy-sensitive data: predicting non-response to treatment for eating disorders,Svendsen VG,Expert Rev Pharmacoecon Outcomes Res,2023,10.1080/14737167.2023.2230368
+SPECT image segmentation for estimation of tumour volume and activity concentration in (177)Lu-DOTATATE radionuclide therapy,Gustafsson J,EJNMMI Res,2017,10.1186/s13550-017-0262-7
+Fractionated Bilirubin Among 252 892 Utah Newborns with and Without Biliary Atresia: A 15-year Historical Birth Cohort Study,Kastenberg ZJ,J Pediatr,2023,10.1016/j.jpeds.2022.12.041
+Effective methods to correct contrast agent-induced errors in PET quantification in cardiac PET/CT,Büther F,J Nucl Med,2007,10.2967/jnumed.107.039941
+Differentiation between single fiber potentials from one muscle fiber or contaminated by other fibers using discriminating function,Zalewska E,Neurophysiol Clin,2021,10.1016/j.neucli.2020.12.001
+Managing uncertainty in imputing missing symptom value for healthcare of rural India,Das S,Health Inf Sci Syst,2019,10.1007/s13755-019-0066-4
+Tensions in relation: How peer support is experienced and received in a hepatitis C treatment intervention,Bonnington O,Int J Drug Policy,2017,10.1016/j.drugpo.2017.05.031
+SPINNED: Simulation-based physics-informed neural network for deconvolution of dynamic susceptibility contrast MRI perfusion data,Asaduddin M,Magn Reson Med,2024,10.1002/mrm.30095
+The use of the SAEM algorithm in MONOLIX software for estimation of population pharmacokinetic-pharmacodynamic-viral dynamics parameters of maraviroc in asymptomatic HIV subjects,Chan PL,J Pharmacokinet Pharmacodyn,2011,10.1007/s10928-010-9175-z
+Super-Resolution Whole-Brain 3D MR Spectroscopic Imaging for Mapping D-2-Hydroxyglutarate and Tumor Metabolism in Isocitrate Dehydrogenase 1-mutated Human Gliomas,Li X,Radiology,2020,10.1148/radiol.2020191529
+Privacy-Preserving Federated Survival Support Vector Machines for Cross-Institutional Time-To-Event Analysis: Algorithm Development and Validation,Späth J,JMIR AI,2024,10.2196/47652
+Attenuation-emission alignment in cardiac PET/CT based on consistency conditions,Alessio AM,Med Phys,2010,10.1118/1.3315368
+A flexible framework for sequential estimation of model parameters in computational hemodynamics,Arthurs CJ,Adv Model Simul Eng Sci,2020,10.1186/s40323-020-00186-x
+"Redundancy in electronic health record corpora: analysis, impact on text mining performance and mitigation strategies",Cohen R,BMC Bioinformatics,2013,10.1186/1471-2105-14-10
+Non-parametric recurrent events analysis with BART and an application to the hospital admissions of patients with diabetes,Sparapani RA,Biostatistics,2020,10.1093/biostatistics/kxy032
+High-fidelity fast volumetric brain MRI using synergistic wave-controlled aliasing in parallel imaging and a hybrid denoising generative adversarial network (HDnGAN),Li Z,Med Phys,2022,10.1002/mp.15427
+Statistical projection completion in X-ray CT using consistency conditions,Xu J,IEEE Trans Med Imaging,2010,10.1109/TMI.2010.2048335
+Assessing older adults' perceptions of sensor data and designing visual displays for ambient environments. An exploratory study,Reeder B,Methods Inf Med,2014,10.3414/ME13-02-0009
+A framework for mining signatures from event sequences and its applications in healthcare data,Wang F,IEEE Trans Pattern Anal Mach Intell,2013,10.1109/TPAMI.2012.111
+Procedure to normalize data for benchmarking,Chatburn RL,Respir Care,2006,
+Probabilistic techniques for obtaining accurate patient counts in Clinical Data Warehouses,Myers RB,J Biomed Inform,2011,10.1016/j.jbi.2011.09.005
+New ways of estimating excess mortality of chronic diseases from aggregated data: insights from the illness-death model,Brinks R,BMC Public Health,2019,10.1186/s12889-019-7201-7
+A comparative study of feature extraction and blind source separation of independent component analysis (ICA) on childhood brain tumour 1H magnetic resonance spectra,Hao J,NMR Biomed,2009,10.1002/nbm.1393
+Exploring barriers to primary care for migrants in Greece in times of austerity: Perspectives of service providers,Papadakaki M,Eur J Gen Pract,2017,10.1080/13814788.2017.1307336
+A method for detecting and characterizing outbreaks of infectious disease from clinical reports,Cooper GF,J Biomed Inform,2015,10.1016/j.jbi.2014.08.011
+Meta-analysis of prediction model performance across multiple studies: Which scale helps ensure between-study normality for the C-statistic and calibration measures?,Snell KI,Stat Methods Med Res,2018,10.1177/0962280217705678
+Biological Variation: The Effect of Different Distributions on Estimated Within-Person Variation and Reference Change Values,Røraas T,Clin Chem,2016,10.1373/clinchem.2015.252296
+A method for model-free partial volume correction in oncological PET,Hofheinz F,EJNMMI Res,2012,10.1186/2191-219X-2-16
+Partial-volume correction in PET: validation of an iterative postreconstruction method with phantom and patient data,Teo BK,J Nucl Med,2007,10.2967/jnumed.106.035576
+Implementing community participation via interdisciplinary teams in primary care: An Irish case study in practice,Tierney E,Health Expect,2018,10.1111/hex.12692
+Improving robustness of automatic cardiac function quantification from cine magnetic resonance imaging using synthetic image data,Gheorghiță BA,Sci Rep,2022,10.1038/s41598-022-06315-3
+Effective deep learning training for single-image super-resolution in endomicroscopy exploiting video-registration-based reconstruction,Ravì D,Int J Comput Assist Radiol Surg,2018,10.1007/s11548-018-1764-0
+Validity of Attention Bias Variability Indices for Posttraumatic Stress Disorder Research: Evidence From Patient Data,Alon Y,J Trauma Stress,2019,10.1002/jts.22443
+Different percentages of false-positive results obtained using five methods for the calculation of reference change values based on simulated normal and ln-normal distributions of data,Lund F,Ann Clin Biochem,2016,10.1177/0004563216643729
+Evoked hemodynamic response estimation using ensemble empirical mode decomposition based adaptive algorithm applied to dual channel functional near infrared spectroscopy (fNIRS),Hemmati Berivanlou N,J Neurosci Methods,2014,10.1016/j.jneumeth.2013.12.007
+Matching Microsimulation Risk Factor Correlations to Cross-sectional Data: The Shortest Distance Method,Suen SC,Med Decis Making,2018,10.1177/0272989X17741635
+[Basis and perspectives of artificial intelligence in radiation therapy],Burgun A,Cancer Radiother,2019,10.1016/j.canrad.2019.08.005
+Missing values in deduplication of electronic patient data,Sariyar M,J Am Med Inform Assoc,2012,10.1136/amiajnl-2011-000461
+Simulated fall detection via accelerometers,Boyle J,Annu Int Conf IEEE Eng Med Biol Soc,2008,10.1109/IEMBS.2008.4649396
+The process of nurses' role negotiation in general practice: A grounded theory study,Hewitt SL,J Adv Nurs,2024,10.1111/jan.15938
+Efficient algorithms for fast integration on large data sets from multiple sources,Mi T,BMC Med Inform Decis Mak,2012,10.1186/1472-6947-12-59
+Linkage of patient records from disparate sources,Li X,Stat Methods Med Res,2013,10.1177/0962280211403600
+DragNet: Learning-based deformable registration for realistic cardiac MR sequence generation from a single frame,Zakeri A,Med Image Anal,2023,10.1016/j.media.2022.102678
+Automated visibility map of the internal colon surface from colonoscopy video,Armin MA,Int J Comput Assist Radiol Surg,2016,10.1007/s11548-016-1462-8
+Loss of population data sources when health systems are not responsible for geographically defined populations: implications of the Health and Social Care Act of 2012 in England,Pollock AM,Evid Based Med,2014,10.1136/eb-2013-101287
+Simplifying volumes-of-interest (VOIs) definition in quantitative SPECT: Beyond manual definition of 3D whole-organ VOIs,Vicente EM,Med Phys,2017,10.1002/mp.12164
+A Deep Learning Framework for Predicting Patient Decannulation on Extracorporeal Membrane Oxygenation Devices: Development and Model Analysis Study,Fuller J,JMIR Biomed Eng,2024,10.2196/48497
+Extraction of unadjusted estimates of prognostic association for meta-analysis: simulation methods as good alternatives to trend and direct method estimation,Pérez T,J Clin Epidemiol,2018,10.1016/j.jclinepi.2017.12.017
+Context-Aware Time Series Imputation for Multi-Analyte Clinical Data,Yin K,J Healthc Inform Res,2020,10.1007/s41666-020-00075-3
+Limits of 2D-TCA in detecting BOLD responses to epileptic activity,Khatamian YB,Epilepsy Res,2011,10.1016/j.eplepsyres.2011.01.018
+Adjusting for sampling variability in sparse data: geostatistical approaches to disease mapping,Hampton KH,Int J Health Geogr,2011,10.1186/1476-072X-10-54
+Defining regions for locality health care planning: a multidimensional approach,Shortt NK,Soc Sci Med,2005,10.1016/j.socscimed.2004.11.016
+The influence of frame rate on two-dimensional speckle-tracking strain measurements: a study on silico-simulated models and images recorded in patients,Rösner A,Eur Heart J Cardiovasc Imaging,2015,10.1093/ehjci/jev058
+Creating sparser prediction models of treatment outcome in depression: a proof-of-concept study using simultaneous feature selection and hyperparameter tuning,Rost N,BMC Med Inform Decis Mak,2022,10.1186/s12911-022-01926-2
+IMPLEMENTING TOOLS TO PROMOTE ADHERENCE TO ANTIRETROVIRAL THERAPY AT FACILITIES IN KENYA,Gitau L,East Afr Med J,2014,
+ROC curves for clinical prediction models part 1. ROC plots showed no added value above the AUC when evaluating the performance of clinical prediction models,Verbakel JY,J Clin Epidemiol,2020,10.1016/j.jclinepi.2020.01.028
+Creation and application of a simulated database of dynamic [18f]MPPF PET acquisitions incorporating inter-individual anatomical and biological variability,Reilhac A,IEEE Trans Med Imaging,2006,10.1109/TMI.2006.879922
+Using Machine Learning and Natural Language Processing Algorithms to Automate the Evaluation of Clinical Decision Support in Electronic Medical Record Systems,Szlosek DA,EGEMS (Wash DC),2016,10.13063/2327-9214.1222
+Automatic 3-D breath-hold related motion correction of dynamic multislice MRI,Elen A,IEEE Trans Med Imaging,2010,10.1109/TMI.2009.2039145
+Planning and intraoperative visualization of liver catheterizations: new CTA protocol and 2D-3D registration method,Groher M,Acad Radiol,2007,10.1016/j.acra.2007.07.009
+When can the Bland & Altman limits of agreement method be used and when it should not be used,Taffé P,J Clin Epidemiol,2021,10.1016/j.jclinepi.2021.04.004
+Computing threshold antibody levels of protection in vaccine clinical trials: An assessment of methodological bias,Voysey M,PLoS One,2018,10.1371/journal.pone.0202517
+How to use frailtypack for validating failure-time surrogate endpoints using individual patient data from meta-analyses of randomized controlled trials,Sofeu CL,PLoS One,2020,10.1371/journal.pone.0228098
+A comparison of methods for fixed effects meta-analysis of individual patient data with time to event outcomes,Tudur Smith C,Clin Trials,2007,10.1177/1740774507085276
+A method for cohort selection of cardiovascular disease records from an electronic health record system,Abrahão MTF,Int J Med Inform,2017,10.1016/j.ijmedinf.2017.03.015
+Evaluating performance of risk identification methods through a large-scale simulation of observational data,Ryan PB,Drug Saf,2013,10.1007/s40264-013-0110-2
+A re-analysis of the Cochrane Library data: the dangers of unobserved heterogeneity in meta-analyses,Kontopantelis E,PLoS One,2013,10.1371/journal.pone.0069930
+Auto-calibrating spherical deconvolution based on ODF sparsity,Schultz T,Med Image Comput Comput Assist Interv,2013,10.1007/978-3-642-40811-3_83
+Beyond the challenge to research integrity: imposter participation in incentivised qualitative research and its impact on community engagement,Drysdale K,Health Sociol Rev,2023,10.1080/14461242.2023.2261433
+A signal detection method to detect adverse drug reactions using a parametric time-to-event model in simulated cohort data,Cornelius VR,Drug Saf,2012,10.2165/11599740-000000000-00000
+A novel generative adversarial networks modelling for the class imbalance problem in high dimensional omics data,Cusworth S,BMC Med Inform Decis Mak,2024,10.1186/s12911-024-02487-2
+Matching-adjusted indirect comparisons of annualized bleeding rate and utilization of BAY 94-9027 versus three recombinant factor VIII agents for prophylaxis in patients with severe hemophilia A,Batt K,J Blood Med,2019,10.2147/JBM.S206806
+Bayesian profiling for cost with zeros to decompose total cost into probability of cost and mean nonzero cost,Grunwald GK,Biom J,2020,10.1002/bimj.201900148
+A joint spatial factor analysis model to accommodate data from misaligned areal units with application to Louisiana social vulnerability,Nethery RC,Biostatistics,2019,10.1093/biostatistics/kxy016
+Testing Three Problem List Terminologies in a simulated data entry environment,Fung KW,AMIA Annu Symp Proc,2011,
+Multiscale measurement error models for aggregated small area health data,Aregay M,Stat Methods Med Res,2016,10.1177/0962280216661094
+"[Participative action research; self-care education for the mature adult, a dialogic and empowered process]",Sanchez Gomez S,Aten Primaria,2015,10.1016/j.aprim.2014.12.008
+Fast Quasi-Newton Algorithms for Penalized Reconstruction in Emission Tomography and Further Improvements via Preconditioning,Tsai YJ,IEEE Trans Med Imaging,2018,10.1109/TMI.2017.2786865
+Evaluation of a Cyber Security System for Hospital Network,Faysel MA,Stud Health Technol Inform,2015,
+Twenty new digital brain phantoms for creation of validation image data bases,Aubert-Broche B,IEEE Trans Med Imaging,2006,10.1109/TMI.2006.883453
+A clustering approach to identify rare variants associated with hypertension,Sun R,BMC Proc,2016,10.1186/s12919-016-0022-0
+Meta-analysis of non-linear exposure-outcome relationships using individual participant data: A comparison of two methods,White IR,Stat Med,2019,10.1002/sim.7974
+biDCG: a new method for discovering global features of DNA microarray data via an iterative re-clustering procedure,Chen CP,PLoS One,2014,10.1371/journal.pone.0102445
+Relaxivity-iron calibration in hepatic iron overload: Predictions of a Monte Carlo model,Ghugre NR,Magn Reson Med,2015,10.1002/mrm.25459
+Myocardial motion estimation combining tissue doppler and B-mode echocardiographic images,Porras AR,Med Image Comput Comput Assist Interv,2013,10.1007/978-3-642-40763-5_60
+No rationale for 1 variable per 10 events criterion for binary logistic regression analysis,van Smeden M,BMC Med Res Methodol,2016,10.1186/s12874-016-0267-3
+Enabling high-throughput genotype-phenotype associations in the Epidemiologic Architecture for Genes Linked to Environment (EAGLE) project as part of the Population Architecture using Genomics and Epidemiology (PAGE) study,Bush WS,Pac Symp Biocomput,2013,
+Anomaly Detection and Artifact Recovery in PET Attenuation-Correction Images Using the Likelihood Function,Laymon CM,IEEE J Sel Top Signal Process,2013,10.1109/JSTSP.2012.2237380
+MultiBUGS: A Parallel Implementation of the BUGS Modelling Framework for Faster Bayesian Inference,Goudie RJB,J Stat Softw,2020,10.18637/jss.v095.i07
+Topology-corrected segmentation and local intensity estimates for improved partial volume classification of brain cortex in MRI,Rueda A,J Neurosci Methods,2010,10.1016/j.jneumeth.2010.02.020
+Remaking the future: contemplating a life with chronic widespread pain,Richardson JC,Chronic Illn,2006,10.1177/17423953060020030201
+Pixel-by-pixel deconvolution of bolus-tracking data: optimization and implementation,Sourbron S,Phys Med Biol,2007,10.1088/0031-9155/52/2/009
+Opioid prescribing patterns for non-malignant chronic pain for rural versus non-rural US adults: a population-based study using 2010 NAMCS data,Prunuske JP,BMC Health Serv Res,2014,10.1186/s12913-014-0563-8
+Self-adapting cyclic registration for motion-compensated cone-beam CT in image-guided radiation therapy,Brehm M,Med Phys,2012,10.1118/1.4766435
+Family history in primary care: understanding GPs' resistance to clinical genetics--qualitative study,Mathers J,Br J Gen Pract,2010,10.3399/bjgp10X501868
+A multiple imputation approach to disclosure limitation for high-age individuals in longitudinal studies,An D,Stat Med,2010,10.1002/sim.3974
+"Uncertainty assessment of input parameters for economic evaluation: Gauss's error propagation, an alternative to established methods",Stollenwerk B,Med Decis Making,2010,10.1177/0272989X09347015
+Registration of 4D cardiac CT sequences under trajectory constraints with multichannel diffeomorphic demons,Peyrat JM,IEEE Trans Med Imaging,2010,10.1109/TMI.2009.2038908
+A comparison of Cox and logistic regression for use in genome-wide association studies of cohort and case-cohort design,Staley JR,Eur J Hum Genet,2017,10.1038/ejhg.2017.78
+Agreement between coding schemas used to identify bleeding-related hospitalizations in claims analyses of nonvalvular atrial fibrillation patients,Coleman CI,Clin Cardiol,2018,10.1002/clc.22861
+Calculation of limits for significant unidirectional changes in two or more serial results of a biomarker based on a computer simulation model,Lund F,Ann Clin Biochem,2015,10.1177/0004563214534636
+Removing ocular movement artefacts by a joint smoothened subspace estimator,Phlypo R,Comput Intell Neurosci,2007,10.1155/2007/75079
+Model-based estimation of intra-cortical connectivity using electrophysiological data,Aram P,Neuroimage,2015,10.1016/j.neuroimage.2015.06.048
+Partially latent class models for case-control studies of childhood pneumonia aetiology,Wu Z,J R Stat Soc Ser C Appl Stat,2016,10.1111/rssc.12101
+Predicting tissue outcome from acute stroke magnetic resonance imaging: improving model performance by optimal sampling of training data,Jonsdottir KY,Stroke,2009,10.1161/STROKEAHA.109.552216
+Building motion models of lung tumours from cone-beam CT for radiotherapy applications,Martin J,Phys Med Biol,2013,10.1088/0031-9155/58/6/1809
+The effect of rare variants on inflation of the test statistics in case-control analyses,Pirie A,BMC Bioinformatics,2015,10.1186/s12859-015-0496-1
+4D Blood Flow Reconstruction Over the Entire Ventricle From Wall Motion and Blood Velocity Derived From Ultrasound Data,Gomez A,IEEE Trans Med Imaging,2015,10.1109/TMI.2015.2428932
+"Confidence intervals and power calculations for within-person biological variation: effect of analytical imprecision, number of replicates, number of samples, and number of individuals",Røraas T,Clin Chem,2012,10.1373/clinchem.2012.187781
+Interpretation of increments in serial tumour biomarker concentrations depends on the distance of the baseline concentration from the cut-off,Petersen PH,Clin Chem Lab Med,2011,10.1515/CCLM.2011.045
+Value-based noise reduction for low-dose dual-energy computed tomography,Balda M,Med Image Comput Comput Assist Interv,2010,10.1007/978-3-642-15711-0_68
+Factors affecting visual inference in single-case designs,Ximenes VM,Span J Psychol,2009,10.1017/s1138741600002195
+A new method for creating electrophysiological maps for DBS surgery and their application to surgical guidance,Pallavaram S,Med Image Comput Comput Assist Interv,2008,10.1007/978-3-540-85988-8_80
+Federated queries for comparative effectiveness research: performance analysis,Price RC,Stud Health Technol Inform,2012,
+Eigenvector analysis for separation of a spectrally concentrated source from a mixture,Phlypo R,Annu Int Conf IEEE Eng Med Biol Soc,2008,10.1109/IEMBS.2008.4649548
+Detecting individual sites subject to episodic diversifying selection,Murrell B,PLoS Genet,2012,10.1371/journal.pgen.1002764
+Spatial Linear Mixed Effects Modelling for OCT Images: SLME Model,Zhu W,J Imaging,2020,10.3390/jimaging6060044
+Introducing the fit-criteria assessment plot - A visualisation tool to assist class enumeration in group-based trajectory modelling,Klijn SL,Stat Methods Med Res,2017,10.1177/0962280215598665
+The Shiny Balancer - software and imbalance criteria for optimally balanced treatment allocation in small RCTs and cRCTs,Grischott T,BMC Med Res Methodol,2018,10.1186/s12874-018-0551-5
+Calculating the Expected Value of Sample Information in Practice: Considerations from 3 Case Studies,Heath A,Med Decis Making,2020,10.1177/0272989X20912402
+Crowdsourced direct-to-consumer genomic analysis of a family quartet,Corpas M,BMC Genomics,2015,10.1186/s12864-015-1973-7
+GroundsWell: Community-engaged and data-informed systems transformation of Urban Green and Blue Space for population health - a new initiative,Hunter RF,Wellcome Open Res,2022,10.12688/wellcomeopenres.18175.1
+"The National COVID Cohort Collaborative (N3C): Rationale, design, infrastructure, and deployment",Haendel MA,J Am Med Inform Assoc,2021,10.1093/jamia/ocaa196
+A likelihood ratio approach for utilizing case-control data in the clinical classification of rare sequence variants: application to BRCA1 and BRCA2,Zanti M,Hum Mutat,2023,10.1155/2023/9961341
